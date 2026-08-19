@@ -8,7 +8,10 @@ export default function Footer() {
           © {new Date().getFullYear()} Associação Naja — Mestre Naja
         </div>
         <div style={{ marginTop: 8 }}>
-          Endereço: Rua Exemplo, 123 — Contato: (12) 9 9999-9999 — email@associacaonaja.org
+          Endereço: Rua Guaicurus, 313 - Pedregulho, Guaratinguetá - SP
+        </div>
+        <div style={{ marginTop: 8 }}>
+          Contato: (12) 9 98834 - 9404 — email@associacaonaja.org
         </div>
         <div style={{ marginTop: 6, fontSize: 12, color: 'var(--color-muted)' }}>
           Direitos e imagens pertencem à Associação Naja.

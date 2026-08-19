@@ -18,7 +18,7 @@ export default function Home() {
         <section className={styles.hero} aria-labelledby="hero-title">
           <div className={styles.heroText}>
             <h1 id="hero-title" className={styles.title}>
-              Associação Naja — Tradição e Disciplina nas Artes Marciais
+              Associação Naja — Unidade Pedregulho Guaratinguetá
             </h1>
             <p className={styles.subtitle}>
               Treinos de Taekwondo, Hapkido e MMA Vale-Tudo. A formação integral que alia técnica e respeito.
